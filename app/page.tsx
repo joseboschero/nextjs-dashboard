@@ -16,9 +16,9 @@ export default function Page() {
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js Learn Course
             </a>
-            , brought to you by Vercel. <br /> Don't click on Log in, instead,
-            go to /dashboard
+            , brought to you by Vercel.
           </p>
+          <h1>Don't click on Log in, instead, go to /dashboard</h1>
           <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
